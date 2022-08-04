@@ -5,7 +5,7 @@ const Calculadora = () => {
     <div className="container">
 
     <div className="calculadora">
-        <div className="visualizacion">123</div>
+        <div className="visualizacion"></div>
         <button className="itemGrisOscuro itemC">C</button>
         <button className="itemGrisOscuro itemMasMenos">+/-</button>
         <button className="itemGrisOscuro itemPorcentaje">%</button>
